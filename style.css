@@ -8,7 +8,10 @@
     flex-direction: row;
     flex-wrap: wrap;
     padding: 10px;
+    align-items: center;
+    justify-content: center;
 }
+
 .article {
     display: flex;
     flex: 0 0 100px;
